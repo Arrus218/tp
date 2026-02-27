@@ -327,7 +327,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 8. The system should provide clear and actionable error messages when invalid input is entered.
 9. The application should not crash during normal usage and should handle invalid inputs gracefully.
 10. The codebase should be modular and structured to allow new features (e.g., attendance or finance tracking) to be added without major refactoring.
-11. The system should support exporting data in a common format (e.g., CSV) for external reporting or sharing.
+
 
 *{More to be added}*
 
