@@ -29,14 +29,14 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Team Lead
 * Responsibilities: UI
 
-### Johnny Doe
+### Damian
 
 <img src="images/johndoe.png" width="200px">
 
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
+[[github](http://github.com/damianngwz.md)] [[portfolio](team/damianngwz.md)]
 
-* Role: Developer
-* Responsibilities: Data
+* Role: Team Lead
+* Responsibilities: Responsible for overall project coordination.
 
 ### Jean Doe
 
