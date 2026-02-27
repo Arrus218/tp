@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AddressBook Level-3
+title: SoCcer Manager
 ---
 
 [![Java CI](https://github.com/AY2526S2-CS2103-F08-2/tp/actions/workflows/gradle.yml/badge.svg)](https://github.com/AY2526S2-CS2103-F08-2/tp/actions/workflows/gradle.yml)
